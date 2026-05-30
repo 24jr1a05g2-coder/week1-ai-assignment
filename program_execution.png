@@ -1,0 +1,78 @@
+Hello, pranasya! Welcome to your academic dashboard.
+
+Please choose an option:
+1. Generate Study Tips (Local JSON)
+2. Generate Motivation Quote (Local JSON)
+3. Display Current Date & Time
+4. Fetch a Live Fact (Public API)
+5. Exit Program
+
+Enter choice (1-5): 4
+
+🌐 Fetching live data from API...
+
+🐾 Live Fact:
+A cat can jump up to five times its own height in a single bound.
+
+(Saved to output.txt)
+
+Please choose an option:
+1. Generate Study Tips (Local JSON)
+2. Generate Motivation Quote (Local JSON)
+3. Display Current Date & Time
+4. Fetch a Live Fact (Public API)
+5. Exit Program
+
+Enter choice (1-5): 1
+
+💡 Study Tip: Organise your study space.
+
+Please choose an option:
+1. Generate Study Tips (Local JSON)
+2. Generate Motivation Quote (Local JSON)
+3. Display Current Date & Time
+4. Fetch a Live Fact (Public API)
+5. Exit Program
+
+Enter choice (1-5): 2
+
+✨ Motivation: Keep pushing forward!
+
+Please choose an option:
+1. Generate Study Tips (Local JSON)
+2. Generate Motivation Quote (Local JSON)
+3. Display Current Date & Time
+4. Fetch a Live Fact (Public API)
+5. Exit Program
+
+Enter choice (1-5): 3
+
+⏰ Current Date & Time: Saturday, May 30, 2026 - 11:36 AM
+
+Please choose an option:
+1. Generate Study Tips (Local JSON)
+2. Generate Motivation Quote (Local JSON)
+3. Display Current Date & Time
+4. Fetch a Live Fact (Public API)
+5. Exit Program
+
+Enter choice (1-5): 4
+
+🌐 Fetching live data from API...
+
+🐾 Live Fact:
+A cat can jump up to five times its own height in a single bound.
+
+(Saved to output.txt)
+
+Please choose an option:
+1. Generate Study Tips (Local JSON)
+2. Generate Motivation Quote (Local JSON)
+3. Display Current Date & Time
+4. Fetch a Live Fact (Public API)
+5. Exit Program
+
+Enter choice (1-5): 5
+
+Goodbye, pranasya! Have a productive day!
+PS C:\Users\ttell> 
